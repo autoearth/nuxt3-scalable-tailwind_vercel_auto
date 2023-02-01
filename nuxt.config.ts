@@ -3,7 +3,7 @@ export default defineNuxtConfig({
 
   ssr: true,
 
-  app: {
+   app: {
     head: {
         htmlAttrs: {
             lang: 'en'
